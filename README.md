@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.Since2024+%E0%A5%90;)](https://git.io/typing-svg) 
      
 
@@ -15,7 +17,9 @@
     </br></br>
 
 # Hi here, I'm Sanjula Samarasinghe 👋
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to o## About Me
+Welcome to my GitHub profile!
+
+## About Me
 
 - 🌱 I’m currently learned Diploma In Information Technology.
 - 👯 I’m looking to collaborate on 🎧🔘 𝗠𝗿.𝗦𝗮𝗻𝗷𝘂𝘄𝗮 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 🎶 ✅
@@ -50,3 +54,4 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 <a href="https://https://t.me/techacademymrsanjuwa" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Link">
 </a>
+</div>
