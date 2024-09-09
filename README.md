@@ -24,12 +24,12 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 - **Description:** Join First After Read Group Description.
 
 <a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
-  <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Group Link">
+  <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group Link">
 </a>
 
-
-<a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
-  <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Channel Link">
+##
+<a href="https://whatsapp.com/channel/0029VamdcbWEwEjxc7ACED05" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel Link">
 </a>
 
 
