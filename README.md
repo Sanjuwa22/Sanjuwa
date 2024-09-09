@@ -1,5 +1,10 @@
 <img src="https://github.com/Sanjuwa22/Sanjuwa/blob/main/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="" width="300" height="300">
 
+##
+
+<a href="https://github.com/Sanjuwa22?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Sanjuwa22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    </br></br>
 
 # Hi here, I'm Sanjula Samarasinghe 👋
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to o## About Me
