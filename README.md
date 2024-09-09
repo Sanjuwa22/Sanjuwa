@@ -24,4 +24,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - Telegram
 - Viber
 
-![Visitor Count](https://profile-counter.glitch.me/{Sanjuwa22})
+## WhatsApp Group
+
+Join our WhatsApp group to stay updated and collaborate with like-minded individuals!
+
+- **Group Name:**  🎧🔘 𝗠𝗿.𝗦𝗮𝗻𝗷𝘂𝘄𝗮 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 🎶 ✅
+- **Description:** මගෙ වට්ස්ඇප් බොට් ගෘප් එකට එන්න
+- **Join Link:** https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV
