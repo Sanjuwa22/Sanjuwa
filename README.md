@@ -3,7 +3,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Sanjula%20Samarasinghe&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
 
-</div>
+
 
 ##
 
@@ -53,3 +53,4 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 <a href="https://https://t.me/techacademymrsanjuwa" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Link">
 </a>
+</div>
