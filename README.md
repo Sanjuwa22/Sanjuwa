@@ -10,14 +10,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 📫 How to reach me: https://wa.me/94710513877
 - ⚡ Fun fact: [A Play Free Fire]
 
-## GitHub Stats
-
-!Sanjuwa22's GitHub stats
-
-## Top Languages
-
-!Top Languages
-
 ## Connect with Me
 
 - Whatsapp
@@ -38,4 +30,10 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 
 <a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Channel Link">
+</a>
+
+
+## 
+<a href="https://https://t.me/techacademymrsanjuwa" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Our%20Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel Link">
 </a>
