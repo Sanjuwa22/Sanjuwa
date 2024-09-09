@@ -1,4 +1,4 @@
-<img src="https://ibb.co/ss1sk1p" alt="Alt text" width="500" height="300">
+<img src="https://ibb.co/ss1sk1p" alt="Mr Sanjuwa Official" width="1024" height="1024">
 
 
 # Hi here, I'm Sanjula Samarasinghe 👋
