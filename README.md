@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8PxPTxn/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="Alt text" width="1024" height="1024">
+<img src="https://i.ibb.co/8PxPTxn/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" width="1024" height="1024">
 
 
 
