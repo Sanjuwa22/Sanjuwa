@@ -1,3 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.;%CE%B1.%CE%B7.%D1%82%CE%B5c%D0%BD+c%D1%8F%CE%B5%CF%89+(Since2016+%E0%A5%90);)](https://git.io/typing-svg) </div>
+     
+
+
+##
+
+
+
 <img src="https://github.com/Sanjuwa22/Sanjuwa/blob/main/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="" width="300" height="300">
 
 ##
