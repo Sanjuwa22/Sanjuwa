@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/8PxPTxn/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="88d2a95c-736d-45da-b10c-9e1ac7c80b7e" border="0">
+<img src="https://ibb.co/ss1sk1p" alt="Alt text" width="500" height="300">
 
 
 # Hi here, I'm Sanjula Samarasinghe 👋
