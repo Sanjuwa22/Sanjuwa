@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.(https://git.io/typing-svg) 
 
+<div align="center">
+    
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Hi,%20I'm%20Sanjula%20Samarasinghe&desc=Welcome%20To%20My%20Profile&animation=twinkling&fontSize=40&fontAlign=50&fontAlignY=20&descSize=20&descAlign=50&height=180&descAlignY=45) 
+
+</div>
 
 ##
 
