@@ -23,4 +23,5 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - Whatsapp
 - Telegram
 - Viber
-![Visitor Count](https://profile-counter.glitch.me/)
+
+![Visitor Count](https://profile-counter.glitch.me/{Sanjuwa22})
