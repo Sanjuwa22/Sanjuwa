@@ -1,4 +1,4 @@
-<img src="https://github.com/Sanjuwa22/Sanjuwa/blob/main/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="" width="1024" height="1024">
+<img src="https://github.com/Sanjuwa22/Sanjuwa/blob/main/88d2a95c-736d-45da-b10c-9e1ac7c80b7e.jpg" alt="" width="500" height="300">
 
 
 # Hi here, I'm Sanjula Samarasinghe 👋
@@ -22,7 +22,7 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 
 - **Group Name:** 🎧🔘 𝗠𝗿.𝗦𝗮𝗻𝗷𝘂𝘄𝗮 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 🎶 ✅
 - **Description:** Join First After Read Group Description.
-
+##
 <a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group Link">
 </a>
