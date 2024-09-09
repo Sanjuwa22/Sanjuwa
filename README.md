@@ -34,3 +34,8 @@ Join our WhatsApp group to stay updated and collaborate with like-minded individ
 <a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
   <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Group Link">
 </a>
+
+
+<a href="https://chat.whatsapp.com/JmMmc8YHAwQJjk9XM5jLeV" target="_blank">
+  <img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" alt="WhatsApp Channel Link">
+</a>
