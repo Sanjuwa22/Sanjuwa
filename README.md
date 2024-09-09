@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.(Since2024+%E0%A5%90);)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=125&lines=%E2%9A%98%20Inspiring%20the%20intelligence.;%20Connecting%20you%20digitally.Since2024+%E0%A5%90;)](https://git.io/typing-svg) 
      
 
 
